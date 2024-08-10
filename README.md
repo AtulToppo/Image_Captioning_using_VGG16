@@ -49,7 +49,10 @@ This function will display the actual and predicted captions for the provided im
 Ensure that the images and captions are properly aligned and formatted.
 
 ## Snapshots
-
+![Model Architecture](./Screenshot%202024-08-10%20192431.png)
+![Epoch](./Screenshot%202024-08-10%20192531.png)
+![1st Output](./Screenshot%202024-08-10%20192556.png)
+![2nd Output](./Screenshot%202024-08-10%20192613.png)
 
 ## Acknowledgement
 -The VGG16 model is pre-trained on ImageNet and is available via TensorFlow and Keras.
