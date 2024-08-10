@@ -45,10 +45,13 @@ generate_caption("1000092795.jpg")
 ```
 This function will display the actual and predicted captions for the provided image.
 
-##Note
+## Note
 Ensure that the images and captions are properly aligned and formatted.
 
-##Acknowledgement
+## Snapshots
+
+
+## Acknowledgement
 -The VGG16 model is pre-trained on ImageNet and is available via TensorFlow and Keras.
 -BLEU score implementation is provided by the nltk library.
 -Dataset: [Dataset: Flickr30k](https://www.kaggle.com/datasets/adityajn105/flickr30k) from Kaggle.
