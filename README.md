@@ -55,8 +55,8 @@ Ensure that the images and captions are properly aligned and formatted.
 ![2nd Output](./Screenshot%202024-08-10%20192613.png)
 
 ## Acknowledgement
--The VGG16 model is pre-trained on ImageNet and is available via TensorFlow and Keras.
--BLEU score implementation is provided by the nltk library.
--Dataset: [Dataset: Flickr30k](https://www.kaggle.com/datasets/adityajn105/flickr30k) from Kaggle.
--Adjust hyperparameters and model architecture as needed based on your specific use case and dataset.
+- The VGG16 model is pre-trained on ImageNet and is available via TensorFlow and Keras.
+- BLEU score implementation is provided by the nltk library.
+- Dataset: [Dataset: Flickr30k](https://www.kaggle.com/datasets/adityajn105/flickr30k) from Kaggle.
+- Adjust hyperparameters and model architecture as needed based on your specific use case and dataset.
 
